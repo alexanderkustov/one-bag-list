@@ -1,0 +1,6 @@
+{
+  "name": "One Bag Travel",
+  "description": "Minimalist ultralight one bag travel packing checklist and image generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
